@@ -1,0 +1,5 @@
+train: D:/YOLOV5/data/yolo_insulator\images/
+val: D:/YOLOV5/data/yolo_insulator\images/
+
+nc: 1
+names: ['insulator']
