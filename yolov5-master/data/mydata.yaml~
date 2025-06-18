@@ -1,8 +1,0 @@
-train: "C:/Users/User/Desktop/YOLOV5/yolov5-master/data/mydata/dataSet/train.txt"
-val: "C:/Users/User/Desktop/YOLOV5/yolov5-master/data/mydata/dataSet/val.txt"
-test: "C:/Users/User/Desktop/YOLOV5/yolov5-master/data/mydata/dataSet/test.txt"
-test_xml: "C:/Users/User/Desktop/YOLOV5/yolov5-master/data/mydata/mydata/xml"
-
-names:
-  0: 'mask'
-  1: 'nomask'
