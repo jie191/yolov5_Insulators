@@ -1,0 +1,1 @@
+python detect.py --weights runs/train/exp3/weights/best.pt --source data/images/01.jpg --conf 0.4
